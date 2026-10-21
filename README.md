@@ -1,13 +1,16 @@
 # Hi, I'm Tom 👋
 
-### Backend Python Developer
+### Backend Python Developer — RNCP Level 6
 
-I'm currently transitioning into software development, 
-with a focus on backend development using Python.
+Backend Python developer with a focus on building reliable APIs,
+web applications and maintainable back-end architectures.
 
 After several years working in digital creation and motion design,
-I'm now building backend applications and REST APIs with Python,
-Django, PostgreSQL and SQLAlchemy.
+I completed an RNCP Level 6 qualification in Python application development.
+
+I work mainly with Python, Django, Django REST Framework, FastAPI,
+PostgreSQL and SQLAlchemy, with a strong focus on testing,
+security, clean architecture and automated deployment.
 
 ## 🛠 Tech Stack
 
@@ -15,6 +18,7 @@ Django, PostgreSQL and SQLAlchemy.
 - Python
 - Django
 - Django REST Framework
+- FastAPI
 - Flask
 - SQLAlchemy
 
@@ -23,11 +27,18 @@ Django, PostgreSQL and SQLAlchemy.
 - SQL
 - Alembic
 
-**Tools & Testing**
-- Git / GitHub
+**Testing & Quality**
 - Pytest
+- Automated testing
 - Sentry
 - Logging
+
+**DevOps & Tools**
+- Git / GitHub
+- Docker
+- GitHub Actions
+- CI/CD
+- Render
 
 **Concepts**
 - REST APIs
@@ -35,27 +46,28 @@ Django, PostgreSQL and SQLAlchemy.
 - Object-Oriented Programming
 - ORM
 - MVC / MVT
+- Role-based permissions
+- Layered architecture
 
 ## 🚀 Featured Projects
 
 ### Epic Events — CRM
 
-CRM application built with Python and PostgreSQL.
+Secure CRM back-end built with Python, PostgreSQL and SQLAlchemy.
 
 - Layered architecture
-- SQLAlchemy ORM
-- PostgreSQL
+- PostgreSQL and SQLAlchemy ORM
 - Alembic migrations
 - JWT authentication
 - Role-based permissions
 - Automated testing with Pytest
 - Error monitoring with Sentry
 
-[View repository →](https://github.com/mouquettom/Epic-Events-PostgresSQL)
+[View repository →](https://github.com/mouquettom/epic-events-crm)
 
 ### SoftDesk — REST API
 
-REST API for collaborative project and issue management.
+REST API for collaborative project, issue and comment management.
 
 - Django REST Framework
 - JWT authentication
@@ -63,20 +75,38 @@ REST API for collaborative project and issue management.
 - Nested resources
 - Unit, integration and functional tests
 
-[View repository →](https://github.com/mouquettom/API-SoftDesk-Support)
+[View repository →](https://github.com/mouquettom/softdesk-api)
 
-### LITRevu
+### Orange County Lettings
 
-Django web application for publishing and requesting book/article reviews.
+Production-ready Django application refactored with testing,
+monitoring, containerisation and automated deployment.
 
 - Django
-- ORM
-- MVT architecture
-- User relationships and personalized feed
+- Automated tests with Pytest
+- Test coverage above 80%
+- Docker
+- Sentry monitoring
+- GitHub Actions CI/CD pipeline
+- Automated deployment on Render
 
-[View repository →](https://github.com/mouquettom/OC-LIT-Revu)
+[View repository →](https://github.com/mouquettom/orange-county-lettings)
+
+### Developer Portfolio & Contact API
+
+Bilingual developer portfolio with a production FastAPI contact service.
+
+- FastAPI and Pydantic
+- Automated front-end and API testing
+- Docker
+- GitHub Actions
+- CI/CD deployment on Render
+- Production contact form and email delivery
+
+[View repository →](https://github.com/mouquettom/portfolio)
 
 ## 📫 Contact
 
+- Portfolio: [tommouquet.com](https://tommouquet.com)
 - LinkedIn: [Tom Mouquet](https://www.linkedin.com/in/tom-mouquet-dev/)
 - Location: Paris, France
